@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![](/images/demo 1.gif)
+![](/images/demo1.gif)
 
 ## Notes
 
